@@ -2,12 +2,6 @@ we are going to create a new folder names animals and add and animals html and j
 
 we are going to import and export functions
 
-
-
-
-
-
-
 # Alchemy's Web
 
 ## Demo
